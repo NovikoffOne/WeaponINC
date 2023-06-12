@@ -1,0 +1,3 @@
+D:\CSharp\IUNIOR\DZ\WeaponINC\obj\Debug\WeaponINC.csproj.AssemblyReference.cache
+D:\CSharp\IUNIOR\DZ\WeaponINC\obj\Debug\WeaponINC.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\IUNIOR\DZ\WeaponINC\obj\Debug\WeaponINC.csproj.CoreCompileInputs.cache
