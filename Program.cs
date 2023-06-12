@@ -8,7 +8,7 @@ namespace WeaponINC
 {
     internal class Program
     {
-        class Weapon
+        public class Weapon
         {
             private int _damage;
             private int _bullets;
@@ -20,7 +20,7 @@ namespace WeaponINC
             }
         }
 
-        class Player
+        public class Player
         {
             private int _health;
 
@@ -31,7 +31,7 @@ namespace WeaponINC
             }
         }
 
-        class Bot
+        public class Bot
         {
             private Weapon _weapon;
 
